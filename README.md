@@ -89,8 +89,7 @@ Model comparisons
 
 Results interpretation
 
-Check the file: Project_Report.docx
-
+Check the file: [Project_Report.docx](https://github.com/user-attachments/files/20547639/Project_Report.docx)
 ---
 
 ## 🔮 Future Improvements
@@ -107,5 +106,5 @@ Hyperparameter optimization with GridSearchCV
 Akshat Garg
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+
 
