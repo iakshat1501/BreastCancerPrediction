@@ -70,6 +70,12 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 ---
 
+## 🌐 Web Page Images
+![1](https://github.com/user-attachments/assets/b64fb090-9242-4874-9136-529204691fde)
+
+![2](https://github.com/user-attachments/assets/828862aa-e945-4a6e-a8e9-80b7f9533888)
+
+---
 
 ## 📌 Results
 Achieved over 95% accuracy with Random Forest and SVM
@@ -89,7 +95,9 @@ Model comparisons
 
 Results interpretation
 
-Check the file: [Project_Report.docx](https://github.com/user-attachments/files/20547639/Project_Report.docx)
+Check the file: [Project_Report (1).docx](https://github.com/user-attachments/files/20547745/Project_Report.1.docx)
+
+
 ---
 
 ## 🔮 Future Improvements
